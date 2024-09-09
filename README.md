@@ -33,6 +33,7 @@ Run:
 ```sh
 $ php artisan mirgrate:fresh --seed
 $ php artisan serve
+$ yarn dev
 ```
 
 ## Технічне тестове завдання
